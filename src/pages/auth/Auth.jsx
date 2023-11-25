@@ -10,7 +10,7 @@ const signInWithGoogle = async() =>{
 
   return (
     <div className='login-page'>
-    <h3>Sign In with Google</h3>
+    <h3>Sign In with Google !</h3>
     <button className='login-with-google-btn' onClick={signInWithGoogle}>SignInWithGoogle</button>
     </div>
   )
